@@ -2,5 +2,5 @@
 FRAMEWORK = [
   'RubyonRails',
   'Laravel',
-  'Django',
+  'Django'
 ]
